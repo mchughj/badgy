@@ -50,8 +50,8 @@ Check out the examples folders for various code samples, we're constantly adding
 ## Compiling examples
 The readme files within the example directories contain specific library and version information for that example.   At a minimum though you should consider installing the following libraries as they are very useful and/or necessary for any real functionality.
 
-1. GxEPD library: you can find the repo [here](https://github.com/ZinggJM/GxEPD).
-2. AdaFruit GFX library: installation instructions available [here](https://learn.adafruit.com/adafruit-gfx-graphics-library/overview).
+1. GxEPD library: you can find the repo [here](https://github.com/ZinggJM/GxEPD).  It can also be found in the Library Manager under GxEPD.  Do not download GxEPD2.
+2. AdaFruit GFX library: installation instructions available [here](https://learn.adafruit.com/adafruit-gfx-graphics-library/overview).  Also can be found in the Library Manager under Adafruit_GFX.
 3. WifiManager library: you can find the repo [here](https://github.com/tzapu/WiFiManager).  You can also find this in the Library Manager under 'WiFiManager by tzapu'.
-4. Time library: you can find the repo [here](https://github.com/PaulStoffregen/Time).  
+4. Time library: you can find the repo [here](https://github.com/PaulStoffregen/Time).    I was NOT able to find this in the Library Manager.
 5. ArduinoJson library: you can find the repo [here](https://github.com/bblanchon/ArduinoJson). You can also find this in the Library Manager under 'ArduinoJson by Benoit Blanchon'.   Make sure that you install a 5.x version since some of the examples require that.
